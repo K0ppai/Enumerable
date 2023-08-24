@@ -20,5 +20,4 @@ module MyEnumerable
     end
     filtered_elements
   end
-  
 end
